@@ -11,7 +11,7 @@ html {
     rgba(12, 10, 22, 0.863)
   );
 
-  --imp-text-color: #c770f0;
+  --imp-text-color: #2ef2f2;
 }
 
 .purple {
@@ -281,17 +281,17 @@ button:focus {
 }
 
 .main-name {
-  color: #cd5ff8;
+  color: #2ef2f2;
 }
 
 .Typewriter__wrapper {
   font-size: 2.2em !important;
-  color: #be6adf !important;
+  color: #2ef2f2 !important;
   font-weight: 600 !important;
 }
 .Typewriter__cursor {
   font-size: 2.4em !important;
-  color: #b562d6 !important;
+  color: #2ef2f2 !important;
 }
 
 @media (max-width: 767px) {
@@ -555,12 +555,12 @@ button:focus {
   margin: 15px !important;
   padding: 10px !important;
   opacity: 0.93 !important;
-  border: 1.7px solid rgba(200, 137, 230, 0.637) !important;
+  border: 1.7px solid rgba(0, 221, 255, 0.637) !important;
   vertical-align: middle !important;
   text-align: center !important;
   border-radius: 5px !important;
   display: table !important;
-  box-shadow: 4px 5px 4px 3px rgba(89, 4, 168, 0.137) !important;
+  box-shadow: 4px 5px 4px 3px rgba(32, 55, 59, 0.637) !important;
   overflow: hidden !important;
   transition: all 0.4s ease 0s !important;
 }
@@ -574,7 +574,7 @@ button:focus {
 .tech-icons:hover {
   transform: scale(1.05) !important;
   overflow: hidden !important;
-  border: 2.2px solid rgba(197, 115, 230, 0.883) !important;
+  border: 2.2px solid rgba(0, 221, 255, 0.637) !important;
 }
 .tech-icon-images {
   padding: 20px !important;
